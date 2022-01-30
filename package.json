@@ -1,0 +1,12 @@
+{
+  "name": "theta-voice",
+  "version": "1.0.0",
+  "description": "Voice Server For Theta House",
+  "main": "index.js",
+  "repository": "https://github.com/KaZe-Python/Theta-Voice",
+  "author": "Bruno Pio Cosenitni <brunopio@cosentini.it>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
